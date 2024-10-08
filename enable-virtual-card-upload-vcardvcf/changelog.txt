@@ -1,5 +1,8 @@
 *** WordPress Enable Virtual Card Upload Changelog ***
 
+2023.9.19 - version 2.3.0
+ * Added compatibility with WP 6.6.x
+
 2023.9.19 - version 2.2.0
  * Minor Changes
 

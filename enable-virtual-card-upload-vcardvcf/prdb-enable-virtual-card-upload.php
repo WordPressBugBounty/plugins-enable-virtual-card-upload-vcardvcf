@@ -3,10 +3,9 @@
 /*************************************************************************
 
 Plugin Name: Enable Virtual Card Upload - Vcard,Vcf
-Donate Link: https://paypal.me/prodabo
 Plugin URI: https://prodabo.com
 Description: Enables upload of virtual card (vcf,vcard) files.
-Version: 2.2.0
+Version: 2.3.0
 Author: Amit verma
 Author URI: https://www.linkedin.com/in/avcodelord/
 Text Domain: enable-virtual-card-upload
