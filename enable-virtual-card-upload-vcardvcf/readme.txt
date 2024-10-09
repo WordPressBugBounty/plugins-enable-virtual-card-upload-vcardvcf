@@ -1,6 +1,6 @@
 === Enable virtual card upload - vcf,vcard ===
 Contributors: amitcodelord
-Tags: wordpress, plugin, vcf, vcard, upload
+Tags: vcf, vcard, upload
 Requires at least: 3.7
 Tested up to: 6.6.2
 Stable tag: 2.3.0
