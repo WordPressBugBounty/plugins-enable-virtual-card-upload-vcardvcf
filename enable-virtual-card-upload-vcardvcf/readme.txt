@@ -2,8 +2,8 @@
 Contributors: amitcodelord
 Tags: vcf, vcard, upload
 Requires at least: 3.7
-Tested up to: 6.6.2
-Stable tag: 2.3.0
+Tested up to: 6.9.1
+Stable tag: 2.3.1
 Requires PHP: 5.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -35,6 +35,10 @@ Installing "Enable Virtual Card Upload - Vcard,Vcf" can be done either by search
 1. Activate the plugin through the 'Plugins' menu in WordPress
 
 == Changelog ==
+
+= 2.3.1 =
+* Fixed upload compatibility with modern WordPress MIME validation for vcf/vcard files.
+* Added compatibility with WP 6.9.1
 
 = 2.3.0 =
 * Added compatibility with WP 6.6.x
